@@ -1,13 +1,10 @@
 .bg-pink {
   background-color: #ffa8b6;
+  font-family: Verdana, DejaVu, Geneva, Tahoma, sans-serif;
 }
 
 .h2 {
   font-size: 24px;
-}
-
-p {
-  font-family: Verdana, DejaVu, Geneva, Tahoma, sans-serif;
 }
 
 #number-two {
@@ -17,6 +14,5 @@ p {
 
 #number-four {
   background-color: rgb(138, 228, 138);
-  font-size: 36px;
   font-weight: bold;
 }
