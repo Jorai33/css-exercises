@@ -1,0 +1,22 @@
+.bg-pink {
+  background-color: #ffa8b6;
+}
+
+.h2 {
+  font-size: 24px;
+}
+
+p {
+  font-family: Verdana, DejaVu, Geneva, Tahoma, sans-serif;
+}
+
+#number-two {
+  color: rgb(47, 47, 230);
+  font-size: 36px;
+}
+
+#number-four {
+  background-color: rgb(138, 228, 138);
+  font-size: 36px;
+  font-weight: bold;
+}
